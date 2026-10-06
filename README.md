@@ -37,15 +37,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-### 📂 Featured work
-
-| Project | What it is | Stack |
-|---|---|---|
-| **OPMS** | Ortho Practice Management Service — scheduling, patient forms, payments, reporting, real-time updates | Angular, NgRx, Kendo UI, DevExpress, SignalR |
-| **OrthoVoIP** | VoIP phone system for orthodontic practices — reports, chat, billing, fax | Angular, Kendo UI, SignalR |
-| **Meetstand** | Asynchronous stand-up & check-in tool for teams | React, Redux, React Hook Form |
-| **[Portfolio](https://github.com/Manivel-Mariyappan/Manivel-Mariyappan.github.io)** | This portfolio — prerendered Angular 21 with signals & standalone components | Angular 21, TypeScript, SCSS |
-
 ### 💬 Let's work together
 
 Need an Angular developer, a new website or help upgrading an existing app?
